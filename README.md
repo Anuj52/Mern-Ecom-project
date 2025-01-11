@@ -64,7 +64,8 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce application w
 
 ![Home Page]![image](https://github.com/user-attachments/assets/8ad549f9-a58b-4f3e-9abb-6a9c1c25bd2a)
 
-![Login page]![image](https://github.com/user-attachments/assets/748334ef-e28f-4e7a-8f67-67d9c644d550)
+![Login page]![image](https://github.com/user-attachments/assets/b6a58dd8-3bc1-4ea9-ba35-818ce6022f18)
+
 
 
 ## License:
